@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
 <head>
   <meta charset="UTF-8">
+  <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Villa menCanta — Digital Menu | Sheikh Zayed</title>
   <meta name="description" content="Official digital restaurant menu of Villa menCanta in Sheikh Zayed. Explore our breakfast, mains, pasta, pizza, beverages, and desserts.">
@@ -12,28 +13,39 @@
   <meta property="og:title" content="Villa menCanta — Digital Menu">
   <meta property="og:description" content="Explore our authentic menu categories and signature dishes.">
   <meta property="og:type" content="website">
-  <meta property="og:image" content="assets/brand/logo.png">
+  <meta property="og:image" content="/assets/brand/logo.png">
 
   <!-- Favicon / Brand Icon -->
-  <link rel="icon" type="image/png" href="assets/brand/logo.png">
+  <link rel="icon" type="image/png" href="/assets/brand/logo.png">
 
   <!-- Google Fonts: Cormorant Garamond, Plus Jakarta Sans, and Amiri for Arabic elegance -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
+  <!-- Critical Inline Layout Defense (Prevents FOUC & Oversized Unstyled Elements) -->
+  <style>
+    body { margin: 0; background-color: #FDFBF7; color: #412103; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    .branded-intro[aria-hidden="true"],
+    .dish-modal[aria-hidden="true"],
+    .nav-drawer[aria-hidden="true"],
+    .header-search-panel[aria-hidden="true"] { display: none !important; }
+    svg { max-width: 24px; max-height: 24px; }
+    img { max-width: 100%; height: auto; }
+  </style>
+
   <!-- Core Stylesheets -->
-  <link rel="stylesheet" href="css/variables.css">
-  <link rel="stylesheet" href="css/reset.css">
-  <link rel="stylesheet" href="css/components.css">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="/css/variables.css">
+  <link rel="stylesheet" href="/css/reset.css">
+  <link rel="stylesheet" href="/css/components.css">
+  <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
 
   <!-- 1. Branded Intro Curtain (Tactile Luxury, 650ms, respects reduced motion) -->
   <aside id="branded-intro" class="branded-intro" aria-hidden="true">
     <div class="intro-content">
-      <img src="assets/brand/logo.png" alt="Villa menCanta" class="intro-logo" />
+      <img src="/assets/brand/logo.png" alt="Villa menCanta" class="intro-logo" width="160" height="42" />
       <span class="intro-sub" data-i18n="restaurant">Restaurant</span>
       <span class="intro-location" data-i18n="sheikhZayed">Sheikh Zayed</span>
     </div>
@@ -62,7 +74,7 @@
 
       <!-- Center Brand Wordmark & Relief -->
       <a href="#breakfast" id="header-brand-link" class="header-brand" aria-label="Villa menCanta home">
-        <img src="assets/brand/logo.png" alt="Villa menCanta" class="header-logo" />
+        <img src="/assets/brand/logo.png" alt="Villa menCanta" class="header-logo" width="150" height="38" />
       </a>
 
       <!-- Header Actions: Language Switch & Search -->
@@ -83,7 +95,7 @@
           aria-label="Search dishes and ingredients"
           aria-expanded="false"
         >
-          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false">
             <circle cx="11" cy="11" r="7"/>
             <line x1="16.5" y1="16.5" x2="21.5" y2="21.5"/>
           </svg>
@@ -96,7 +108,7 @@
     <div id="header-search-panel" class="header-search-panel" role="search" aria-hidden="true">
       <div class="search-inner">
         <div class="search-input-wrap">
-          <svg class="search-icon-inside" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <svg class="search-icon-inside" viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" focusable="false">
             <circle cx="11" cy="11" r="7"/>
             <line x1="16.5" y1="16.5" x2="21.5" y2="21.5"/>
           </svg>
@@ -137,7 +149,7 @@
   >
     <div class="drawer-header">
       <div class="drawer-brand-block">
-        <img src="assets/brand/logo.png" alt="Villa menCanta" class="drawer-logo" />
+        <img src="/assets/brand/logo.png" alt="Villa menCanta" class="drawer-logo" width="140" height="36" />
         <div class="drawer-brand-info">
           <span class="drawer-brand-name">Villa menCanta</span>
           <span class="drawer-brand-caption" data-i18n="menuCategories">Menu Categories</span>
@@ -270,7 +282,7 @@
   <footer id="site-footer" class="site-footer">
     <div class="footer-inner">
       <div class="footer-brand-wrap">
-        <img src="assets/brand/logo.png" alt="Villa menCanta" class="footer-logo" />
+        <img src="/assets/brand/logo.png" alt="Villa menCanta" class="footer-logo" width="150" height="38" />
       </div>
 
       <nav class="footer-links-row" aria-label="Footer navigation">
@@ -315,9 +327,9 @@
   </div>
 
   <!-- Scripts -->
-  <script src="js/menu-data.js"></script>
-  <script src="js/navigation.js"></script>
-  <script src="js/search.js"></script>
-  <script src="js/app.js"></script>
+  <script src="/js/menu-data.js"></script>
+  <script src="/js/navigation.js"></script>
+  <script src="/js/search.js"></script>
+  <script src="/js/app.js"></script>
 </body>
 </html>

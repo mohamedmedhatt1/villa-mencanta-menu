@@ -119,17 +119,29 @@ This runs 4 automated verification suites:
 
 The project is pre-configured with [`vercel.json`](./vercel.json) for zero-config Vercel deployment.
 
+### Vercel Dashboard Settings
+When importing or deploying the project on Vercel, ensure your **Project Settings > General / Build & Development Settings** match:
+- **Framework Preset**: `Other`
+- **Root Directory**: `./` (default repository root)
+- **Build Command**: *Override OFF / Default* (or `npm run build`)
+- **Output Directory**: *Override OFF / Default* (or `.`)
+
+[`vercel.json`](./vercel.json) explicitly defines `"outputDirectory": "."` and configures client-side SPA category rewrites and browser caching headers for assets, styles, and scripts.
+
 ### Option A: Deploy via GitHub (Recommended)
 
-1. Push this project to your GitHub repository (see [GitHub Instructions](#-pushing-to-github) below).
-2. Go to [Vercel Dashboard](https://vercel.com/dashboard) and click **Add New > Project**.
-3. Import your `villa-mencanta-menu` repository.
-4. Keep the default settings:
-   - **Framework Preset**: `Other`
-   - **Root Directory**: `./`
-   - **Build Command**: *Leave blank or `npm run build`*
-   - **Output Directory**: *Leave blank (serves root static files)*
-5. Click **Deploy**. Vercel will deploy the site globally across its Edge Network.
+1. Push your updated code to GitHub:
+   ```bash
+   git add .
+   git commit -m "fix: resolve Vercel static asset routing, leading slashes, and FOUC defense"
+   git push origin main
+   ```
+2. Vercel will automatically detect the commit and deploy a fresh build.
+3. If creating a new Vercel project:
+   - Go to [Vercel Dashboard](https://vercel.com/dashboard) and click **Add New > Project**.
+   - Import `villa-mencanta-menu`.
+   - Leave Framework as `Other` and Root Directory as `./`.
+   - Click **Deploy**.
 
 ### Option B: Deploy via Vercel CLI
 

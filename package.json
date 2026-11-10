@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "description": "Villa menCanta — Official Digital Restaurant Menu (Sheikh Zayed)",
   "private": true,
-  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "build": "node -e \"console.log('Build completed successfully: static assets ready for deployment')\"",
+    "build": "node -e \"console.log('Villa menCanta: static website ready')\"",
     "test": "node test-verification.js && node test-dom-simulation.js && node test-responsive-audit.js && node verify-deployment-assets.js",
     "verify": "node test-verification.js"
   },
