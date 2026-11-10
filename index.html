@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Villa menCanta — Digital Menu | Sheikh Zayed</title>
+  <meta name="description" content="Official digital restaurant menu of Villa menCanta in Sheikh Zayed. Explore our breakfast, mains, pasta, pizza, beverages, and desserts.">
+  <meta name="theme-color" content="#412103">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Villa menCanta — Digital Menu">
+  <meta property="og:description" content="Explore our authentic menu categories and signature dishes.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="assets/brand/logo.png">
+
+  <!-- Favicon / Brand Icon -->
+  <link rel="icon" type="image/png" href="assets/brand/logo.png">
+
+  <!-- Google Fonts: Cormorant Garamond, Plus Jakarta Sans, and Amiri for Arabic elegance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Core Stylesheets -->
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+
+  <!-- 1. Branded Intro Curtain (Tactile Luxury, 650ms, respects reduced motion) -->
+  <aside id="branded-intro" class="branded-intro" aria-hidden="true">
+    <div class="intro-content">
+      <img src="assets/brand/logo.png" alt="Villa menCanta" class="intro-logo" />
+      <span class="intro-sub" data-i18n="restaurant">Restaurant</span>
+      <span class="intro-location" data-i18n="sheikhZayed">Sheikh Zayed</span>
+    </div>
+  </aside>
+
+  <!-- 2. Sticky Header with Hamburger, Centered Brand & Bilingual Switch -->
+  <header id="site-header" class="site-header">
+    <div class="header-top">
+      
+      <!-- Hamburger Menu Trigger -->
+      <button
+        type="button"
+        id="hamburger-btn"
+        class="hamburger-btn"
+        aria-label="Open menu categories"
+        aria-expanded="false"
+        aria-controls="nav-drawer"
+      >
+        <span class="hamburger-box">
+          <span class="hamburger-line line-1"></span>
+          <span class="hamburger-line line-2"></span>
+          <span class="hamburger-line line-3"></span>
+        </span>
+        <span class="hamburger-label" data-i18n="menuLabel">Menu</span>
+      </button>
+
+      <!-- Center Brand Wordmark & Relief -->
+      <a href="#breakfast" id="header-brand-link" class="header-brand" aria-label="Villa menCanta home">
+        <img src="assets/brand/logo.png" alt="Villa menCanta" class="header-logo" />
+      </a>
+
+      <!-- Header Actions: Language Switch & Search -->
+      <div class="header-actions">
+        
+        <!-- Language Switcher: EN | العربية -->
+        <div class="lang-switcher" role="group" aria-label="Language selection">
+          <button type="button" id="lang-btn-en" class="lang-btn is-active" data-lang="en" aria-label="Switch to English">EN</button>
+          <span class="lang-divider" aria-hidden="true">|</span>
+          <button type="button" id="lang-btn-ar" class="lang-btn" data-lang="ar" aria-label="التبديل إلى العربية">العربية</button>
+        </div>
+
+        <!-- Search Trigger Button -->
+        <button
+          type="button"
+          id="search-trigger-btn"
+          class="header-search-btn"
+          aria-label="Search dishes and ingredients"
+          aria-expanded="false"
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <circle cx="11" cy="11" r="7"/>
+            <line x1="16.5" y1="16.5" x2="21.5" y2="21.5"/>
+          </svg>
+        </button>
+
+      </div>
+    </div>
+
+    <!-- Integrated Search Slide Panel -->
+    <div id="header-search-panel" class="header-search-panel" role="search" aria-hidden="true">
+      <div class="search-inner">
+        <div class="search-input-wrap">
+          <svg class="search-icon-inside" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <circle cx="11" cy="11" r="7"/>
+            <line x1="16.5" y1="16.5" x2="21.5" y2="21.5"/>
+          </svg>
+          <input
+            type="search"
+            id="menu-search-input"
+            class="search-input"
+            placeholder="Search dishes, ingredients, drinks..."
+            autocomplete="off"
+            spellcheck="false"
+            aria-label="Search dishes and ingredients"
+          />
+          <button type="button" id="search-clear-btn" class="search-clear-btn" aria-label="Clear search query">&times;</button>
+        </div>
+        <button type="button" id="search-close-btn" class="search-close-btn" data-i18n="close">Close</button>
+      </div>
+    </div>
+
+    <!-- Category Quick Rail (Gliding Horizontal Navigation across all 14 categories) -->
+    <nav id="category-nav" class="category-nav" aria-label="Menu categories rail">
+      <div id="category-mask-left" class="category-nav-mask-left" aria-hidden="true"></div>
+      <div id="category-mask-right" class="category-nav-mask-right" aria-hidden="true"></div>
+      <div id="category-scroll-track" class="category-scroll-track" role="tablist">
+        <div id="category-nav-indicator" class="category-nav-indicator" aria-hidden="true"></div>
+        <!-- 14 category tab links injected dynamically -->
+      </div>
+    </nav>
+  </header>
+
+  <!-- 3. Side Navigation Drawer (Smooth slide-in drawer displaying all 14 categories in exact spreadsheet order) -->
+  <aside
+    id="nav-drawer"
+    class="nav-drawer"
+    aria-hidden="true"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Menu categories drawer"
+  >
+    <div class="drawer-header">
+      <div class="drawer-brand-block">
+        <img src="assets/brand/logo.png" alt="Villa menCanta" class="drawer-logo" />
+        <div class="drawer-brand-info">
+          <span class="drawer-brand-name">Villa menCanta</span>
+          <span class="drawer-brand-caption" data-i18n="menuCategories">Menu Categories</span>
+        </div>
+      </div>
+      <button type="button" id="drawer-close-btn" class="drawer-close-btn" aria-label="Close navigation drawer">&times;</button>
+    </div>
+
+    <!-- Category Links List in exact spreadsheet order -->
+    <nav class="drawer-nav-container" aria-label="Categories drawer navigation">
+      <div class="drawer-nav-heading" data-i18n="selectCategory">Select Category</div>
+      <ul id="drawer-category-list" class="drawer-category-list" role="list">
+        <!-- 14 categories dynamically rendered -->
+      </ul>
+    </nav>
+
+    <!-- Drawer Footer Information -->
+    <div class="drawer-footer">
+      <div class="drawer-location-summary">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/>
+          <circle cx="12" cy="9" r="2.5"/>
+        </svg>
+        <span>Sheikh Zayed • CentrAda Plaza</span>
+      </div>
+      <div class="drawer-socials">
+        <a href="https://www.instagram.com/villa_mencanta" target="_blank" rel="noopener noreferrer" class="drawer-social-link">Instagram</a>
+        <span class="drawer-social-dot" aria-hidden="true">·</span>
+        <a href="https://www.facebook.com/VillamenCanta" target="_blank" rel="noopener noreferrer" class="drawer-social-link">Facebook</a>
+        <span class="drawer-social-dot" aria-hidden="true">·</span>
+        <a href="https://www.tiktok.com/@villa_mencanta" target="_blank" rel="noopener noreferrer" class="drawer-social-link">TikTok</a>
+      </div>
+    </div>
+  </aside>
+
+  <!-- Drawer Backdrop Overlay -->
+  <div id="drawer-backdrop" class="drawer-backdrop" aria-hidden="true"></div>
+
+  <!-- 4. Main Content Stream -->
+  <main id="main-content" class="site-main">
+
+    <!-- Restrained Hero / Brand Masthead -->
+    <section id="hero" class="hero-masthead">
+      <div class="container hero-inner">
+        <span class="hero-eyebrow" data-i18n="restaurant">Restaurant</span>
+        <h1 class="hero-title">Villa menCanta</h1>
+        <div class="hero-meta-row">
+          <div class="hero-location-badge">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/>
+              <circle cx="12" cy="9" r="2.5"/>
+            </svg>
+            <span data-i18n="locationSheikhZayed">Sheikh Zayed, CentrAda Plaza</span>
+          </div>
+          <span class="hero-meta-dot" aria-hidden="true"></span>
+          <span class="hero-currency-notice" data-i18n="pricesInEGP">Prices in EGP</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Search Results View (Displayed only when search is active) -->
+    <section id="search-results-container" class="container search-results-section" style="display: none;" aria-live="polite">
+      <!-- Search results dynamically rendered here -->
+    </section>
+
+    <!-- Dedicated Category Page View (Displays ONLY the dishes belonging to the active category) -->
+    <section id="category-page-view" class="category-page-view container" aria-live="polite">
+      
+      <!-- Category Page Masthead -->
+      <div id="category-header-block" class="category-header-block">
+        <!-- Rendered dynamically: Number, Title, Description, Dish count -->
+      </div>
+
+      <!-- Subcategory Tabs (Rendered if category has departments) -->
+      <div id="category-subnav" class="category-subnav" style="display: none;" role="tablist">
+        <!-- Subcategory filter buttons -->
+      </div>
+
+      <!-- Category Dishes Grid (Strictly this category's dishes) -->
+      <div id="category-dishes-grid" class="category-dishes-grid">
+        <!-- Dishes rendered here -->
+      </div>
+
+      <!-- Editorial Category Pagination (Previous / Next Category turn-page navigation) -->
+      <nav id="category-pagination" class="category-pagination" aria-label="Category sequence navigation">
+        <a href="#prev" id="pagination-prev-btn" class="cat-nav-btn is-prev">
+          <span class="cat-nav-arrow" aria-hidden="true">&larr;</span>
+          <div class="cat-nav-text">
+            <span class="cat-nav-subtitle" data-i18n="previousCategory">Previous Category</span>
+            <span id="pagination-prev-title" class="cat-nav-title"></span>
+          </div>
+        </a>
+        <a href="#next" id="pagination-next-btn" class="cat-nav-btn is-next">
+          <div class="cat-nav-text">
+            <span class="cat-nav-subtitle" data-i18n="nextCategory">Next Category</span>
+            <span id="pagination-next-title" class="cat-nav-title"></span>
+          </div>
+          <span class="cat-nav-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </nav>
+
+    </section>
+
+    <!-- 5. Location Section with Verified Contact Details -->
+    <section id="location" class="location-section">
+      <div class="container">
+        <div class="location-box reveal-item">
+          <span class="location-eyebrow" data-i18n="location">Location & Hours</span>
+          <h2 class="location-title">Villa menCanta</h2>
+          <p class="location-address" data-i18n="fullAddress">CentrAda Plaza Mall, Juhayna Square, Sheikh Zayed City, Giza Governorate, Egypt</p>
+          <a
+            href="https://maps.apple.com/place?map=explore&amp;utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;address=%D8%B4%D8%A7%D8%B1%D8%B9+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%85%D9%86%D8%B9%D9%85+%D8%B1%D9%8A%D8%A7%D8%B6%2C+%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3+%D9%85%D9%86+%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1%2C+%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9%2C+%D9%85%D8%B5%D8%B1&amp;coordinate=29.999728%2C30.973817&amp;name=Villa%2520MenCanta"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="location-cta-btn"
+          >
+            <span data-i18n="getDirections">GET DIRECTIONS</span>
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <line x1="7" y1="17" x2="17" y2="7"/>
+              <polyline points="7 7 17 7 17 17"/>
+            </svg>
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- 6. Editorial Footer with Verified Social Links & Logo -->
+  <footer id="site-footer" class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-brand-wrap">
+        <img src="assets/brand/logo.png" alt="Villa menCanta" class="footer-logo" />
+      </div>
+
+      <nav class="footer-links-row" aria-label="Footer navigation">
+        <a href="https://www.instagram.com/villa_mencanta" target="_blank" rel="noopener noreferrer" class="footer-link">Instagram</a>
+        <span class="footer-dot-sep" aria-hidden="true"></span>
+        <a href="https://www.facebook.com/VillamenCanta" target="_blank" rel="noopener noreferrer" class="footer-link">Facebook</a>
+        <span class="footer-dot-sep" aria-hidden="true"></span>
+        <a href="https://www.tiktok.com/@villa_mencanta" target="_blank" rel="noopener noreferrer" class="footer-link">TikTok</a>
+        <span class="footer-dot-sep" aria-hidden="true"></span>
+        <a href="https://maps.apple.com/place?map=explore&amp;utm_source=ig&amp;utm_medium=social&amp;utm_content=link_in_bio&amp;address=%D8%B4%D8%A7%D8%B1%D8%B9+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%85%D9%86%D8%B9%D9%85+%D8%B1%D9%8A%D8%A7%D8%B6%2C+%D8%A7%D9%84%D8%B3%D8%A7%D8%AF%D8%B3+%D9%85%D9%86+%D8%A3%D9%83%D8%AA%D9%88%D8%A8%D8%B1%2C+%D8%A7%D9%84%D8%AC%D9%8A%D8%B2%D8%A9%2C+%D9%85%D8%B5%D8%B1&amp;coordinate=29.999728%2C30.973817&amp;name=Villa%2520MenCanta" target="_blank" rel="noopener noreferrer" class="footer-link" data-i18n="getDirections">Get Directions</a>
+      </nav>
+
+      <p class="footer-copyright" data-i18n="copyright">© 2026 Villa menCanta. All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!-- 7. Dish Detail Lightbox Modal (Quiet Luxury) -->
+  <div id="dish-modal" class="dish-modal" aria-hidden="true" role="dialog" aria-modal="true" aria-labelledby="dish-modal-title">
+    <div class="dish-modal-backdrop" id="dish-modal-backdrop" aria-hidden="true"></div>
+    <div class="dish-modal-dialog">
+      <button type="button" id="dish-modal-close" class="dish-modal-close" aria-label="Close modal">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <line x1="18" y1="6" x2="6" y2="18"></line>
+          <line x1="6" y1="6" x2="18" y2="18"></line>
+        </svg>
+      </button>
+      <div class="dish-modal-media" id="dish-modal-media">
+        <!-- Rendered dynamically -->
+      </div>
+      <div class="dish-modal-body">
+        <div class="dish-modal-meta">
+          <span class="dish-modal-category" id="dish-modal-category"></span>
+          <span class="dish-modal-subdept" id="dish-modal-subdept"></span>
+        </div>
+        <div class="dish-modal-header">
+          <h3 class="dish-modal-title" id="dish-modal-title"></h3>
+          <div class="dish-modal-price" id="dish-modal-price"></div>
+        </div>
+        <p class="dish-modal-desc" id="dish-modal-desc"></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/menu-data.js"></script>
+  <script src="js/navigation.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

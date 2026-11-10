@@ -1,0 +1,242 @@
+/* ==========================================================================
+   Villa menCanta — Main Layout & Responsive Stylesheet
+   Mobile-First • Tactile Luxury • Refined Editorial Polish
+   ========================================================================== */
+
+/* --- Container Utility --- */
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--gutter-mobile);
+  padding-right: var(--gutter-mobile);
+  box-sizing: border-box;
+}
+
+.site-main {
+  min-height: calc(100vh - 160px);
+  overflow-x: hidden;
+}
+
+/* --- Restrained Hero Masthead (Mobile First) --- */
+.hero-masthead {
+  padding: var(--space-md) 0 var(--space-sm) 0;
+  text-align: center;
+  border-bottom: 1px solid var(--color-border-hairline);
+}
+
+.hero-inner {
+  max-width: var(--container-reading);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero-eyebrow {
+  font-family: var(--font-sans);
+  font-size: var(--text-2xs);
+  letter-spacing: var(--tracking-widest);
+  text-transform: uppercase;
+  color: var(--color-accent-terracotta);
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+
+.hero-title {
+  font-family: var(--font-serif);
+  font-size: var(--text-2xl);
+  font-weight: 500;
+  letter-spacing: var(--tracking-wide);
+  color: var(--color-brand-primary);
+  line-height: var(--leading-tight);
+  margin-bottom: 2px;
+}
+
+.hero-meta-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 4px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.hero-location-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-family: var(--font-sans);
+  font-size: var(--text-xs);
+  letter-spacing: var(--tracking-wider);
+  text-transform: uppercase;
+  color: var(--color-ink-tertiary);
+}
+
+.hero-location-badge svg {
+  width: 13px;
+  height: 13px;
+  stroke: var(--color-accent-terracotta);
+  fill: none;
+}
+
+.hero-meta-dot {
+  width: 3px;
+  height: 3px;
+  border-radius: var(--radius-pill);
+  background-color: var(--color-ink-subtle);
+}
+
+.hero-currency-notice {
+  font-family: var(--font-sans);
+  font-size: var(--text-2xs);
+  letter-spacing: var(--tracking-wide);
+  color: var(--color-ink-tertiary);
+  text-transform: uppercase;
+}
+
+/* --- Tactile Card Transitions --- */
+.reveal-item {
+  opacity: 1;
+  transform: translateY(0);
+  animation: fadeInItem 320ms var(--ease-luxury) backwards;
+}
+
+@keyframes fadeInItem {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* --- Mobile Specific Optimization (320px - 414px) --- */
+@media (max-width: 480px) {
+  :root {
+    --gutter-mobile: 1rem;
+    --header-height-mobile: 56px;
+  }
+
+  .header-top {
+    padding: 0 10px;
+  }
+
+  .header-logo {
+    height: 28px;
+  }
+
+  .hamburger-btn {
+    padding: 6px;
+    margin-left: -4px;
+  }
+
+  .hamburger-label {
+    display: none; /* Hide label on small mobile to maximize space */
+  }
+
+  .lang-switcher {
+    padding: 2px 6px;
+    gap: 2px;
+  }
+
+  .lang-btn {
+    font-size: 11px;
+    padding: 1px 3px;
+  }
+
+  .category-pagination {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .cat-nav-btn {
+    max-width: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    justify-content: flex-start;
+  }
+
+  .cat-nav-btn.is-next {
+    justify-content: space-between;
+  }
+
+  html[dir="rtl"] .cat-nav-btn.is-next {
+    justify-content: space-between;
+  }
+
+  .dish-top-row {
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+
+  .dish-name {
+    font-size: 1rem;
+  }
+
+  .dish-price-wrap {
+    margin-left: auto;
+  }
+
+  html[dir="rtl"] .dish-price-wrap {
+    margin-left: 0;
+    margin-right: auto;
+  }
+}
+
+/* Extra small mobile (320px) */
+@media (max-width: 340px) {
+  :root {
+    --gutter-mobile: 0.75rem;
+  }
+
+  .header-logo {
+    height: 24px;
+  }
+
+  .category-main-title {
+    font-size: 1.8rem;
+  }
+}
+
+/* --- Responsive Adjustments: Tablet (>= 768px) --- */
+@media (min-width: 768px) {
+  :root {
+    --header-height-mobile: 64px;
+    --nav-bar-height: 50px;
+    --gutter-mobile: var(--gutter-desktop);
+  }
+
+  .hero-masthead {
+    padding: var(--space-lg) 0 var(--space-md) 0;
+  }
+
+  .header-logo {
+    height: 36px;
+  }
+}
+
+/* --- Responsive Adjustments: Desktop (>= 1024px) --- */
+@media (min-width: 1024px) {
+  .header-top {
+    height: 68px;
+  }
+
+  .header-logo {
+    height: 40px;
+  }
+
+  .category-main-title {
+    font-size: 2.5rem;
+  }
+}
+
+/* --- Large Desktop Screens (>= 1440px) --- */
+@media (min-width: 1440px) {
+  :root {
+    --container-max: 1140px;
+  }
+}

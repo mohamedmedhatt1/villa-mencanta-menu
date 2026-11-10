@@ -1,0 +1,110 @@
+/* ==========================================================================
+   Villa menCanta — Design Tokens & CSS Variables
+   Quiet Luxury • Editorial • Minimal • Warm • Timeless
+   ========================================================================== */
+
+:root {
+  /* --- Brand Inks & Typography Colors --- */
+  --color-brand-primary: #412103;   /* Official Brand Primary #412103 */
+  --color-ink-primary: #412103;     /* Main Typography Inks */
+  --color-ink-secondary: #5A473C;   /* Muted Walnut for descriptions */
+  --color-ink-tertiary: #8C7B70;    /* Warm Earth Taupe for metadata & captions */
+  --color-ink-subtle: #B8ABA0;      /* Faded stone for rules and indicators */
+  --color-ink-inverse: #FAF7F2;     /* Warm Ivory for dark buttons/accents */
+
+  /* --- Warm Plaster & Stone Surfaces --- */
+  --color-bg-base: #FAF7F2;         /* Warm Ivory / Linen plaster wall */
+  --color-bg-surface: #F5EFEB;      /* Soft Limestone surface */
+  --color-bg-elevated: #EDE5DC;     /* Muted Biscuit for interactive hover/active */
+  --color-bg-card: #FFFFFF;         /* Crisp card background for subtle depth */
+  --color-bg-overlay: rgba(65, 33, 3, 0.45);
+
+  /* --- Brand Accents (From sculptural relief mask & terracotta) --- */
+  --color-accent-terracotta: #8E4D26; /* Warm Terracotta relief accent */
+  --color-accent-clay: #B7744E;       /* Subtle lighter terracotta highlight */
+  --color-accent-ochre: #8E6240;      /* Muted Warm Umber */
+  --color-accent-subtle: #F3ECE5;     /* Ultra soft clay tint for chips */
+
+  /* --- Borders & Dividers --- */
+  --color-border-hairline: rgba(65, 33, 3, 0.10); /* Delicate hairline separator */
+  --color-border-subtle: rgba(65, 33, 3, 0.16);   /* Standard component border */
+  --color-border-focus: #412103;                  /* Accessible focus ring */
+
+  /* --- Editorial Typography (Times NR MT Pro as main font) --- */
+  --font-serif: 'Times NR MT Pro', 'Times New Roman', Times, 'Cormorant Garamond', Georgia, serif;
+  --font-arabic-serif: 'Times NR MT Pro', 'Amiri', 'Traditional Arabic', 'Geeza Pro', 'Times New Roman', serif;
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+
+  /* --- Fluid Type Scale --- */
+  --text-2xs: clamp(0.68rem, 0.65rem + 0.08vw, 0.72rem);  /* 11px */
+  --text-xs:  clamp(0.74rem, 0.71rem + 0.10vw, 0.80rem);  /* 12-13px */
+  --text-sm:  clamp(0.83rem, 0.80rem + 0.12vw, 0.89rem);  /* 13-14px */
+  --text-base: clamp(0.92rem, 0.88rem + 0.15vw, 0.98rem); /* 15-16px */
+  --text-md:  clamp(1.04rem, 0.98rem + 0.22vw, 1.15rem);  /* 17-18px */
+  --text-lg:  clamp(1.20rem, 1.12rem + 0.35vw, 1.35rem);  /* 19-22px */
+  --text-xl:  clamp(1.45rem, 1.32rem + 0.50vw, 1.75rem);  /* 23-28px */
+  --text-2xl: clamp(1.80rem, 1.60rem + 0.80vw, 2.25rem);  /* 29-36px */
+  --text-3xl: clamp(2.20rem, 1.90rem + 1.20vw, 2.80rem);  /* 35-45px */
+
+  /* --- Line Heights --- */
+  --leading-none: 1.0;
+  --leading-tight: 1.18;
+  --leading-snug: 1.32;
+  --leading-normal: 1.60;
+  --leading-relaxed: 1.74;
+
+  /* --- Letter Spacing --- */
+  --tracking-normal: normal;
+  --tracking-wide: 0.04em;
+  --tracking-wider: 0.10em;
+  --tracking-widest: 0.18em;
+
+  /* --- Spacing Scale --- */
+  --space-3xs: 0.25rem;  /* 4px */
+  --space-2xs: 0.50rem;  /* 8px */
+  --space-xs:  0.75rem;  /* 12px */
+  --space-sm:  1.00rem;  /* 16px */
+  --space-md:  1.50rem;  /* 24px */
+  --space-lg:  2.00rem;  /* 32px */
+  --space-xl:  2.75rem;  /* 44px */
+  --space-2xl: 4.00rem;  /* 64px */
+  --space-3xl: 5.50rem;  /* 88px */
+
+  /* --- Layout & Viewports --- */
+  --container-max: 1080px;
+  --container-reading: 720px;
+  --header-height-mobile: 58px;
+  --nav-bar-height: 46px;
+  --gutter-mobile: 1.25rem;  /* 20px */
+  --gutter-desktop: 2.25rem; /* 36px */
+
+  /* --- Border Radius --- */
+  --radius-xs: 2px;
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-pill: 999px;
+
+  /* --- Shadows (Ambient, warm, never muddy) --- */
+  --shadow-subtle: 0 1px 4px rgba(42, 24, 16, 0.03), 0 4px 12px rgba(42, 24, 16, 0.02);
+  --shadow-elevated: 0 4px 20px rgba(42, 24, 16, 0.06);
+  --shadow-header: 0 1px 0 rgba(42, 24, 16, 0.06), 0 3px 12px rgba(42, 24, 16, 0.025);
+
+  /* --- Motion Design Tokens (High-End Tactile Curves) --- */
+  --ease-luxury: cubic-bezier(0.16, 1, 0.3, 1);  /* Smooth luxury deceleration */
+  --ease-tactile: cubic-bezier(0.25, 1, 0.5, 1); /* Direct finger tap feedback */
+  --ease-silk: cubic-bezier(0.33, 1, 0.68, 1);   /* Gentle natural flow */
+
+  --duration-instant: 120ms;
+  --duration-fast: 200ms;
+  --duration-normal: 340ms;
+  --duration-slow: 650ms;
+
+  /* --- Z-Indices --- */
+  --z-base: 1;
+  --z-nav: 50;
+  --z-header: 100;
+  --z-search: 120;
+  --z-drawer: 500;
+  --z-curtain: 1000;
+  --z-modal: 1200;
+}

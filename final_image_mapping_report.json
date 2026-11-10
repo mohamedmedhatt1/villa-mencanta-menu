@@ -1,0 +1,1450 @@
+{
+  "summary": {
+    "totalCategories": 14,
+    "totalItems": 144,
+    "itemsWithPhoto": 114,
+    "itemsWithLogoFallback": 30
+  },
+  "items": [
+    {
+      "id": "VM-0001",
+      "nameEn": "Oriental Breakfast",
+      "nameAr": "إفطار شرقي",
+      "category": "Breakfast",
+      "sheetRow": 4,
+      "anchorRow": 4,
+      "file": "image40.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0002",
+      "nameEn": "continental breakfast",
+      "nameAr": "إفطار كونتيننتال",
+      "category": "Breakfast",
+      "sheetRow": 5,
+      "anchorRow": 5,
+      "file": "image49.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0003",
+      "nameEn": "Meshaltet Feteer",
+      "nameAr": "فطير مشلتت",
+      "category": "Breakfast",
+      "sheetRow": 6,
+      "anchorRow": 6,
+      "file": "image18.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0004",
+      "nameEn": "cheese platter",
+      "nameAr": "تشيز بلاتر",
+      "category": "Breakfast",
+      "sheetRow": 7,
+      "anchorRow": 7,
+      "file": "image10.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0005",
+      "nameEn": "Classic Omelet",
+      "nameAr": "أومليت كلاسيكي",
+      "category": "Breakfast",
+      "sheetRow": 9,
+      "anchorRow": 9,
+      "file": "image5.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0006",
+      "nameEn": "Cheese Omelet",
+      "nameAr": "أومليت بالجبن",
+      "category": "Breakfast",
+      "sheetRow": 10,
+      "anchorRow": 10,
+      "file": "image15.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0007",
+      "nameEn": "Pepperoni Cheese Omelet",
+      "nameAr": "أومليت بالبيبروني والجبن",
+      "category": "Breakfast",
+      "sheetRow": 11,
+      "anchorRow": 11,
+      "file": "image52.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0008",
+      "nameEn": "Turky Mushroom Spanish Omelet",
+      "nameAr": "أومليت إسباني بالتركي والماشروم",
+      "category": "Breakfast",
+      "sheetRow": 12,
+      "anchorRow": 12,
+      "file": "image45.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0009",
+      "nameEn": "salmon omelet",
+      "nameAr": "أومليت بالسلمون",
+      "category": "Breakfast",
+      "sheetRow": 13,
+      "anchorRow": 13,
+      "file": "image17.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0010",
+      "nameEn": "Yogurt Blueberry",
+      "nameAr": "زبادي بالتوت الأزرق",
+      "category": "Breakfast",
+      "sheetRow": 15,
+      "anchorRow": 15,
+      "file": "image54.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0011",
+      "nameEn": "Yogurt Green Fruit",
+      "nameAr": "زبادي بالفواكه الخضراء",
+      "category": "Breakfast",
+      "sheetRow": 16,
+      "anchorRow": 16,
+      "file": "image64.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0012",
+      "nameEn": "Granola Green Fruit",
+      "nameAr": "جرانولا بالفواكه الخضراء",
+      "category": "Breakfast",
+      "sheetRow": 17,
+      "anchorRow": 17,
+      "file": "image13.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0013",
+      "nameEn": "Granola Yogurt Berry",
+      "nameAr": "جرانولا بالزبادي والتوت",
+      "category": "Breakfast",
+      "sheetRow": 18,
+      "anchorRow": 18,
+      "file": "image23.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0014",
+      "nameEn": "Creamy chicken soup",
+      "nameAr": "شوربة الدجاج الكريمية",
+      "category": "Soup",
+      "sheetRow": 22,
+      "anchorRow": 22,
+      "file": "image20.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0015",
+      "nameEn": "Masroom soup",
+      "nameAr": "شوربة الماشروم",
+      "category": "Soup",
+      "sheetRow": 23,
+      "anchorRow": 23,
+      "file": "image16.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0016",
+      "nameEn": "Seafood soup",
+      "nameAr": "شوربة السي فود",
+      "category": "Soup",
+      "sheetRow": 24,
+      "anchorRow": 24,
+      "file": "image3.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0017",
+      "nameEn": "Grab  Avocado Salad",
+      "nameAr": "سلطة الأفوكادو",
+      "category": "Salad",
+      "sheetRow": 26,
+      "anchorRow": 26,
+      "file": "image55.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0018",
+      "nameEn": "apple Quinoa",
+      "nameAr": "سلطة الكينوا بالتفاح",
+      "category": "Salad",
+      "sheetRow": 27,
+      "anchorRow": 27,
+      "file": "image33.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0019",
+      "nameEn": "Milano Salad",
+      "nameAr": "سلطة ميلانو",
+      "category": "Salad",
+      "sheetRow": 28,
+      "anchorRow": 28,
+      "file": "image51.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0020",
+      "nameEn": "U Salad",
+      "nameAr": "سلطة \"يو\" (U Salad)",
+      "category": "Salad",
+      "sheetRow": 29,
+      "anchorRow": 29,
+      "file": "image24.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0021",
+      "nameEn": "Buffalo Salad",
+      "nameAr": "سلطة بافالو",
+      "category": "Salad",
+      "sheetRow": 30,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0022",
+      "nameEn": "Caesar Salad",
+      "nameAr": "سلطة سيزر",
+      "category": "Salad",
+      "sheetRow": 31,
+      "anchorRow": 31,
+      "file": "image56.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0023",
+      "nameEn": "Apple,Honey,and Fig salad",
+      "nameAr": "سلطة التفاح والعسل والتين",
+      "category": "Salad",
+      "sheetRow": 32,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0024",
+      "nameEn": "Quinoa salad",
+      "nameAr": "سلطة الكينوا",
+      "category": "Salad",
+      "sheetRow": 33,
+      "anchorRow": 33,
+      "file": "image42.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0025",
+      "nameEn": "Smoked Salmon with mango Salad",
+      "nameAr": "سلطة سموكد السلمون مع المانجو",
+      "category": "Salad",
+      "sheetRow": 34,
+      "anchorRow": 34,
+      "file": "image48.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0026",
+      "nameEn": "Burrata cheese salad",
+      "nameAr": "جبنة البوراتا",
+      "category": "Salad",
+      "sheetRow": 35,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0027",
+      "nameEn": "Spinach Dip",
+      "nameAr": "غموس السبانخ",
+      "category": "Appetizers",
+      "sheetRow": 37,
+      "anchorRow": 37,
+      "file": "image38.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0028",
+      "nameEn": "Chicken Tender",
+      "nameAr": "شرائح الدجاج (تندر)",
+      "category": "Appetizers",
+      "sheetRow": 38,
+      "anchorRow": 38,
+      "file": "image12.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0029",
+      "nameEn": "Chicken Arancini",
+      "nameAr": "أرانشيني الدجاج",
+      "category": "Appetizers",
+      "sheetRow": 39,
+      "anchorRow": 39,
+      "file": "image53.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0030",
+      "nameEn": "Risotto balls",
+      "nameAr": "كرات الريزوتو",
+      "category": "Appetizers",
+      "sheetRow": 40,
+      "anchorRow": 40,
+      "file": "image32.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0031",
+      "nameEn": "Brisket Arancini",
+      "nameAr": "أرانشيني لحم الصدر (بريسكت)",
+      "category": "Appetizers",
+      "sheetRow": 41,
+      "anchorRow": 41,
+      "file": "image37.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0032",
+      "nameEn": "Panko Shrimp",
+      "nameAr": "جمبري بفتات البانكو",
+      "category": "Appetizers",
+      "sheetRow": 42,
+      "anchorRow": 42,
+      "file": "image62.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0033",
+      "nameEn": "turky Sandwich",
+      "nameAr": "ساندوتش تركي",
+      "category": "Sandwiches",
+      "sheetRow": 44,
+      "anchorRow": 44,
+      "file": "image8.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0034",
+      "nameEn": "club sandwich",
+      "nameAr": "ساندوتش كلوب",
+      "category": "Sandwiches",
+      "sheetRow": 45,
+      "anchorRow": 45,
+      "file": "image21.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0035",
+      "nameEn": "classic burger",
+      "nameAr": "برجر كلاسيكي",
+      "category": "Sandwiches",
+      "sheetRow": 46,
+      "anchorRow": 46,
+      "file": "image7.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0036",
+      "nameEn": "Chicken pesto sandwich",
+      "nameAr": "ساندوتش دجاج بيستو",
+      "category": "Sandwiches",
+      "sheetRow": 47,
+      "anchorRow": 47,
+      "file": "image66.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0037",
+      "nameEn": "tuna sandwich",
+      "nameAr": "ساندوتش تونة",
+      "category": "Sandwiches",
+      "sheetRow": 48,
+      "anchorRow": 48,
+      "file": "image36.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0038",
+      "nameEn": "burger Beef beacon",
+      "nameAr": "برجر بيف بيكون",
+      "category": "Sandwiches",
+      "sheetRow": 49,
+      "anchorRow": 49,
+      "file": "image27.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0039",
+      "nameEn": "truffle burger",
+      "nameAr": "ترافل برجر",
+      "category": "Sandwiches",
+      "sheetRow": 50,
+      "anchorRow": 50,
+      "file": "image25.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0040",
+      "nameEn": "Chicken Parmesan",
+      "nameAr": "دجاج بارميزان",
+      "category": "Main Course Chicken",
+      "sheetRow": 52,
+      "anchorRow": 52,
+      "file": "image22.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0041",
+      "nameEn": "Spinach Chicken",
+      "nameAr": "دجاج بالسبانخ",
+      "category": "Main Course Chicken",
+      "sheetRow": 53,
+      "anchorRow": 53,
+      "file": "image46.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0042",
+      "nameEn": "Beef Stroganoff",
+      "nameAr": "بيف ستروجانوف",
+      "category": "Main Course Meat",
+      "sheetRow": 55,
+      "anchorRow": 55,
+      "file": "image2.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0043",
+      "nameEn": "Rib-Eye Steak",
+      "nameAr": "ريب آي",
+      "category": "Main Course Meat",
+      "sheetRow": 56,
+      "anchorRow": 56,
+      "file": "image1.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0044",
+      "nameEn": "Surf & Turf",
+      "nameAr": "سيرف & تيرف",
+      "category": "Main Course Meat",
+      "sheetRow": 57,
+      "anchorRow": 57,
+      "file": "image63.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0045",
+      "nameEn": "Beef Lady Berry",
+      "nameAr": "بيف ليدي بلوبيري",
+      "category": "Main Course Meat",
+      "sheetRow": 58,
+      "anchorRow": 58,
+      "file": "image26.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0046",
+      "nameEn": "Tagliata Toscana",
+      "nameAr": "تاجلياتا توسكانا",
+      "category": "Main Course Meat",
+      "sheetRow": 59,
+      "anchorRow": 59,
+      "file": "image11.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0047",
+      "nameEn": "Tower Truffle beef",
+      "nameAr": "تاور ترافل بيف",
+      "category": "Main Course Meat",
+      "sheetRow": 60,
+      "anchorRow": 60,
+      "file": "image39.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0048",
+      "nameEn": "De Boeuf",
+      "nameAr": "دي بوف",
+      "category": "Main Course Meat",
+      "sheetRow": 61,
+      "anchorRow": 61,
+      "file": "image4.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0049",
+      "nameEn": "Beef Milanesa",
+      "nameAr": "بيف ميلانيسا",
+      "category": "Main Course Meat",
+      "sheetRow": 62,
+      "anchorRow": 62,
+      "file": "image34.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0050",
+      "nameEn": "Baby Shank",
+      "nameAr": "بيبي شانك",
+      "category": "Main Course Meat",
+      "sheetRow": 63,
+      "anchorRow": 63,
+      "file": "image70.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0051",
+      "nameEn": "Asado",
+      "nameAr": "أسادو",
+      "category": "Main Course Meat",
+      "sheetRow": 64,
+      "anchorRow": 64,
+      "file": "image50.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0052",
+      "nameEn": "Grilled Salmon",
+      "nameAr": "جريلد سلمون",
+      "category": "Main Course Seafood",
+      "sheetRow": 66,
+      "anchorRow": 66,
+      "file": "image6.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0053",
+      "nameEn": "Grilled Salmon & Shrimp",
+      "nameAr": "جريلد سلمون وجمبري",
+      "category": "Main Course Seafood",
+      "sheetRow": 67,
+      "anchorRow": 67,
+      "file": "image19.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0054",
+      "nameEn": "Pomodoro Pasta",
+      "nameAr": "بومودورو باستا",
+      "category": "Pasta",
+      "sheetRow": 69,
+      "anchorRow": 69,
+      "file": "image35.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0055",
+      "nameEn": "Risotto Al Funghi",
+      "nameAr": "ريزوتو آل فونغي",
+      "category": "Pasta",
+      "sheetRow": 70,
+      "anchorRow": 70,
+      "file": "image14.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0056",
+      "nameEn": "Lasagna Bolognese",
+      "nameAr": "لازانيا بولونيز",
+      "category": "Pasta",
+      "sheetRow": 71,
+      "anchorRow": 71,
+      "file": "image43.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0057",
+      "nameEn": "Alfredo Pasta",
+      "nameAr": "ألفريدو باستا",
+      "category": "Pasta",
+      "sheetRow": 72,
+      "anchorRow": 72,
+      "file": "image44.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0058",
+      "nameEn": "Aglio e Olio Gamberetti",
+      "nameAr": "أجليو وأوليو غامبيريتي",
+      "category": "Pasta",
+      "sheetRow": 73,
+      "anchorRow": 73,
+      "file": "image29.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0059",
+      "nameEn": "Truffle Pasta",
+      "nameAr": "ترافل باستا",
+      "category": "Pasta",
+      "sheetRow": 74,
+      "anchorRow": 74,
+      "file": "image47.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0060",
+      "nameEn": "Salmon Pasta",
+      "nameAr": "سلمون باستا",
+      "category": "Pasta",
+      "sheetRow": 75,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0061",
+      "nameEn": "Pesto Pasta",
+      "nameAr": "بيستو باستا",
+      "category": "Pasta",
+      "sheetRow": 76,
+      "anchorRow": 76,
+      "file": "image30.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0062",
+      "nameEn": "Frutti di Mare Pasta",
+      "nameAr": "فروتي دي ماري باستا",
+      "category": "Pasta",
+      "sheetRow": 77,
+      "anchorRow": 77,
+      "file": "image76.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0063",
+      "nameEn": "Margherita Pizza",
+      "nameAr": "بيتزا مارجريتا",
+      "category": "Pizza",
+      "sheetRow": 79,
+      "anchorRow": 79,
+      "file": "image60.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0064",
+      "nameEn": "Veggie Pizza",
+      "nameAr": "بيتزا خضار",
+      "category": "Pizza",
+      "sheetRow": 80,
+      "anchorRow": 80,
+      "file": "image57.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0065",
+      "nameEn": "Pepperoni Pizza",
+      "nameAr": "بيتزا بيبروني",
+      "category": "Pizza",
+      "sheetRow": 81,
+      "anchorRow": 81,
+      "file": "image61.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0066",
+      "nameEn": "Quattro Formaggi",
+      "nameAr": "كواترو فورماجي",
+      "category": "Pizza",
+      "sheetRow": 82,
+      "anchorRow": 82,
+      "file": "image9.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0067",
+      "nameEn": "Truffle Pizza",
+      "nameAr": "بيتزا ترافل",
+      "category": "Pizza",
+      "sheetRow": 83,
+      "anchorRow": 83,
+      "file": "image65.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0068",
+      "nameEn": "Burrata Pizza",
+      "nameAr": "بيتزا بوراتا",
+      "category": "Pizza",
+      "sheetRow": 84,
+      "anchorRow": 84,
+      "file": "image28.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0069",
+      "nameEn": "Bresaola Pizza",
+      "nameAr": "بيتزا بريزولا",
+      "category": "Pizza",
+      "sheetRow": 85,
+      "anchorRow": 85,
+      "file": "image58.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0070",
+      "nameEn": "Seafood pizza",
+      "nameAr": "بيتزا المأكولات البحرية",
+      "category": "Pizza",
+      "sheetRow": 86,
+      "anchorRow": 86,
+      "file": "image74.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0071",
+      "nameEn": "Pepperoni Panozo",
+      "nameAr": "بانوزو البيبروني",
+      "category": "Panozo",
+      "sheetRow": 88,
+      "anchorRow": 88,
+      "file": "image69.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0072",
+      "nameEn": "Chicken Panozo",
+      "nameAr": "بانوزو دجاج",
+      "category": "Panozo",
+      "sheetRow": 89,
+      "anchorRow": 89,
+      "file": "image79.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0073",
+      "nameEn": "Turky Panozo",
+      "nameAr": "بانوزو تركي",
+      "category": "Panozo",
+      "sheetRow": 90,
+      "anchorRow": 90,
+      "file": "image86.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0074",
+      "nameEn": "Bresaola Panozo",
+      "nameAr": "بانوزو بالبريزاولا",
+      "category": "Panozo",
+      "sheetRow": 91,
+      "anchorRow": 91,
+      "file": "image90.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0075",
+      "nameEn": "Espresso",
+      "nameAr": "إسبريسو",
+      "category": "Beverages",
+      "sheetRow": 95,
+      "anchorRow": 95,
+      "file": "image59.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0076",
+      "nameEn": "Espresso Macchiato",
+      "nameAr": "إسبريسو ماكياتو",
+      "category": "Beverages",
+      "sheetRow": 97,
+      "anchorRow": 97,
+      "file": "image89.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0077",
+      "nameEn": "Americano",
+      "nameAr": "أمريكانو",
+      "category": "Beverages",
+      "sheetRow": 99,
+      "anchorRow": 99,
+      "file": "image94.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0078",
+      "nameEn": "Cortado",
+      "nameAr": "كورتادو",
+      "category": "Beverages",
+      "sheetRow": 101,
+      "anchorRow": 101,
+      "file": "image105.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0079",
+      "nameEn": "Flat White",
+      "nameAr": "فلات وايت",
+      "category": "Beverages",
+      "sheetRow": 103,
+      "anchorRow": 103,
+      "file": "image106.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0080",
+      "nameEn": "Cappuccino",
+      "nameAr": "كابتشينو",
+      "category": "Beverages",
+      "sheetRow": 105,
+      "anchorRow": 105,
+      "file": "image88.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0081",
+      "nameEn": "Latte",
+      "nameAr": "لاتيه",
+      "category": "Beverages",
+      "sheetRow": 107,
+      "anchorRow": 107,
+      "file": "image68.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0082",
+      "nameEn": "Turkish Coffee..Single",
+      "nameAr": "قهوة تركي .. سنجل",
+      "category": "Beverages",
+      "sheetRow": 109,
+      "anchorRow": 109,
+      "file": "image98.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0083",
+      "nameEn": "Turkish Coffee..Double",
+      "nameAr": "قهوة تركي .. دبل",
+      "category": "Beverages",
+      "sheetRow": 111,
+      "anchorRow": 111,
+      "file": "image67.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0084",
+      "nameEn": "v60",
+      "nameAr": "قهوة V60",
+      "category": "Beverages",
+      "sheetRow": 113,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0085",
+      "nameEn": "French Coffee",
+      "nameAr": "قهوة فرنسية",
+      "category": "Beverages",
+      "sheetRow": 115,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0086",
+      "nameEn": "Pistachio Latte",
+      "nameAr": "بيستاشيو لاتيه",
+      "category": "Beverages",
+      "sheetRow": 118,
+      "anchorRow": 118,
+      "file": "image84.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0087",
+      "nameEn": "Spanish Latte",
+      "nameAr": "سبانش لاتيه",
+      "category": "Beverages",
+      "sheetRow": 120,
+      "anchorRow": 120,
+      "file": "image95.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0088",
+      "nameEn": "mocha latte",
+      "nameAr": "موكا لاتيه",
+      "category": "Beverages",
+      "sheetRow": 122,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0089",
+      "nameEn": "salted caramel latte",
+      "nameAr": "سولتد كراميل لاتيه",
+      "category": "Beverages",
+      "sheetRow": 124,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0090",
+      "nameEn": "Regular Matcha",
+      "nameAr": "ماتشا كلاسيك",
+      "category": "Beverages",
+      "sheetRow": 127,
+      "anchorRow": 127,
+      "file": "image91.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0091",
+      "nameEn": "White Chocolate Matcha",
+      "nameAr": "ماتشا بالشوكولاتة البيضاء",
+      "category": "Beverages",
+      "sheetRow": 129,
+      "anchorRow": 129,
+      "file": "image101.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0092",
+      "nameEn": "Apple Crush",
+      "nameAr": "أبل كراش",
+      "category": "Beverages",
+      "sheetRow": 132,
+      "anchorRow": 132,
+      "file": "image111.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0093",
+      "nameEn": "Strawberry Basil",
+      "nameAr": "ستروبيري باسل",
+      "category": "Beverages",
+      "sheetRow": 134,
+      "anchorRow": 134,
+      "file": "image100.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0094",
+      "nameEn": "Coconut Blue",
+      "nameAr": "كوكونت بلو",
+      "category": "Beverages",
+      "sheetRow": 136,
+      "anchorRow": 136,
+      "file": "image72.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0095",
+      "nameEn": "Tea",
+      "nameAr": "شاي فاخر",
+      "category": "Beverages",
+      "sheetRow": 139,
+      "anchorRow": 139,
+      "file": "image31.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0096",
+      "nameEn": "Green Tea",
+      "nameAr": "شاي أخضر",
+      "category": "Beverages",
+      "sheetRow": 141,
+      "anchorRow": 141,
+      "file": "image31.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0097",
+      "nameEn": "Detox",
+      "nameAr": "مشروب ديتوكس",
+      "category": "Beverages",
+      "sheetRow": 143,
+      "anchorRow": 143,
+      "file": "image93.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0098",
+      "nameEn": "Hot Apple Cider",
+      "nameAr": "هوت أبل سايدر",
+      "category": "Beverages",
+      "sheetRow": 145,
+      "anchorRow": 145,
+      "file": "image99.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0099",
+      "nameEn": "Mint Lemonade Smoothie",
+      "nameAr": "سموذي ليمون بالنعناع",
+      "category": "Beverages",
+      "sheetRow": 148,
+      "anchorRow": 148,
+      "file": "image92.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0100",
+      "nameEn": "mango peach",
+      "nameAr": "سموذي مانجو خوخ",
+      "category": "Beverages",
+      "sheetRow": 150,
+      "anchorRow": 150,
+      "file": "image87.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0101",
+      "nameEn": "Watermelon Minted",
+      "nameAr": "سموذي بطيخ بالنعناع",
+      "category": "Beverages",
+      "sheetRow": 152,
+      "anchorRow": 152,
+      "file": "image75.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0102",
+      "nameEn": "Chocolate milkshake",
+      "nameAr": "ميلك شيك شوكولاتة",
+      "category": "Beverages",
+      "sheetRow": 155,
+      "anchorRow": 155,
+      "file": "image77.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0103",
+      "nameEn": "strawberry milkshake",
+      "nameAr": "ميلك شيك فراولة",
+      "category": "Beverages",
+      "sheetRow": 157,
+      "anchorRow": 157,
+      "file": "image71.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0104",
+      "nameEn": "Vanilla milkshake",
+      "nameAr": "ميلك شيك فانيليا",
+      "category": "Beverages",
+      "sheetRow": 159,
+      "anchorRow": 159,
+      "file": "image82.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0105",
+      "nameEn": "Mint Lemonade",
+      "nameAr": "عصير ليمون بالنعناع",
+      "category": "Beverages",
+      "sheetRow": 162,
+      "anchorRow": 162,
+      "file": "image41.jpg",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0106",
+      "nameEn": "Guava",
+      "nameAr": "عصير جوافة طازج",
+      "category": "Beverages",
+      "sheetRow": 164,
+      "anchorRow": 164,
+      "file": "image113.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0107",
+      "nameEn": "Mango",
+      "nameAr": "عصير مانجو طازج",
+      "category": "Beverages",
+      "sheetRow": 166,
+      "anchorRow": 166,
+      "file": "image109.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0108",
+      "nameEn": "Strawberry",
+      "nameAr": "عصير فراولة طازج",
+      "category": "Beverages",
+      "sheetRow": 168,
+      "anchorRow": 168,
+      "file": "image110.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0109",
+      "nameEn": "Orange",
+      "nameAr": "عصير برتقال طازج",
+      "category": "Beverages",
+      "sheetRow": 170,
+      "anchorRow": 170,
+      "file": "image96.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0110",
+      "nameEn": "Water",
+      "nameAr": "مياه معدنية",
+      "category": "Beverages",
+      "sheetRow": 173,
+      "anchorRow": 174,
+      "file": "image107.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0111",
+      "nameEn": "Sparkling Water",
+      "nameAr": "مياه فوارة",
+      "category": "Beverages",
+      "sheetRow": 175,
+      "anchorRow": 176,
+      "file": "image108.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0112",
+      "nameEn": "Pepsi",
+      "nameAr": "بيبسي",
+      "category": "Beverages",
+      "sheetRow": 177,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0113",
+      "nameEn": "Pepsi Diet",
+      "nameAr": "بيبسي دايت",
+      "category": "Beverages",
+      "sheetRow": 179,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0114",
+      "nameEn": "7Up",
+      "nameAr": "سفن أب",
+      "category": "Beverages",
+      "sheetRow": 181,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0115",
+      "nameEn": "7 Up Diet",
+      "nameAr": "سفن أب دايت",
+      "category": "Beverages",
+      "sheetRow": 183,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0116",
+      "nameEn": "Red Bull",
+      "nameAr": "ريد بول",
+      "category": "Beverages",
+      "sheetRow": 185,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0117",
+      "nameEn": "Red Bull Free Sugar",
+      "nameAr": "ريد بول خالي من السكر",
+      "category": "Beverages",
+      "sheetRow": 187,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0118",
+      "nameEn": "Golden Mirage",
+      "nameAr": "جولدن ميراج",
+      "category": "Beverages",
+      "sheetRow": 190,
+      "anchorRow": 191,
+      "file": "image112.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0119",
+      "nameEn": "Moonlit Cream",
+      "nameAr": "مونلايت كريم",
+      "category": "Beverages",
+      "sheetRow": 192,
+      "anchorRow": 193,
+      "file": "image114.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0120",
+      "nameEn": "Caramelized Popcorn",
+      "nameAr": "كراميل بوب كورن",
+      "category": "Beverages",
+      "sheetRow": 194,
+      "anchorRow": 195,
+      "file": "image82.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0121",
+      "nameEn": "Belgia Chocolaty",
+      "nameAr": "بلجيكا تشوكليتي",
+      "category": "Beverages",
+      "sheetRow": 196,
+      "anchorRow": 197,
+      "file": "image78.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0122",
+      "nameEn": "Apple Pie Berry",
+      "nameAr": "أبل باي بيري",
+      "category": "Beverages",
+      "sheetRow": 198,
+      "anchorRow": 199,
+      "file": "image81.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0123",
+      "nameEn": "Lady Bubbl Gum",
+      "nameAr": "ليدي بابل جم",
+      "category": "Beverages",
+      "sheetRow": 200,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0124",
+      "nameEn": "Hot Belgian Chocolate",
+      "nameAr": "شوكولاتة بلجيكية ساخنة",
+      "category": "Beverages",
+      "sheetRow": 203,
+      "anchorRow": 204,
+      "file": "image80.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0125",
+      "nameEn": "Cinnamon Milk",
+      "nameAr": "حليب بالقرفة",
+      "category": "Beverages",
+      "sheetRow": 205,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0126",
+      "nameEn": "claody White",
+      "nameAr": "كلاودي وايت",
+      "category": "Beverages",
+      "sheetRow": 207,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0127",
+      "nameEn": "Banana Bread Latte",
+      "nameAr": "بانانا بريد لاتيه",
+      "category": "Beverages",
+      "sheetRow": 209,
+      "anchorRow": 210,
+      "file": "image68.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0128",
+      "nameEn": "Calzone Nutella",
+      "nameAr": "كالزوني نوتيلا",
+      "category": "Dessert",
+      "sheetRow": 212,
+      "anchorRow": 213,
+      "file": "image103.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0129",
+      "nameEn": "Calzone lutes",
+      "nameAr": "كالزوني لوتس",
+      "category": "Dessert",
+      "sheetRow": 214,
+      "anchorRow": 215,
+      "file": "image102.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0130",
+      "nameEn": "Tiramisu",
+      "nameAr": "تيراميسو إيطالي أصيل",
+      "category": "Dessert",
+      "sheetRow": 216,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0131",
+      "nameEn": "San Sebastian Cheese Cake",
+      "nameAr": "تشيز كيك سان سيباستيان",
+      "category": "Dessert",
+      "sheetRow": 218,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0132",
+      "nameEn": "Chocolate Cake",
+      "nameAr": "كيك الشوكولاتة الفاخر",
+      "category": "Dessert",
+      "sheetRow": 220,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0133",
+      "nameEn": "Chocolate Fundo",
+      "nameAr": "فوندو الشوكولاتة",
+      "category": "Dessert",
+      "sheetRow": 222,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0134",
+      "nameEn": "Strawberry Cheesecake",
+      "nameAr": "تشيز كيك الفراولة",
+      "category": "Dessert",
+      "sheetRow": 224,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0135",
+      "nameEn": "Tres Leches Pistachio",
+      "nameAr": "تريس ليتشيه بيستاشيو",
+      "category": "Dessert",
+      "sheetRow": 226,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0136",
+      "nameEn": "SOLO Tres Leches Mango",
+      "nameAr": "سولو تريس ليتشيه مانجو",
+      "category": "Dessert",
+      "sheetRow": 228,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0137",
+      "nameEn": "Truffle Gateau",
+      "nameAr": "جاتوه الترافل",
+      "category": "Dessert",
+      "sheetRow": 230,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0138",
+      "nameEn": "ice cream Vanilla",
+      "nameAr": "آيس كريم فانيليا",
+      "category": "Dessert",
+      "sheetRow": 233,
+      "anchorRow": 234,
+      "file": "image73.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0139",
+      "nameEn": "ice cream Chocolate",
+      "nameAr": "آيس كريم شوكولاتة",
+      "category": "Dessert",
+      "sheetRow": 235,
+      "anchorRow": 236,
+      "file": "image97.png",
+      "hasPhoto": true
+    },
+    {
+      "id": "VM-0140",
+      "nameEn": "Molten",
+      "nameAr": "مولتن كيك",
+      "category": "Dessert",
+      "sheetRow": 237,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0141",
+      "nameEn": "Shisha fruit",
+      "nameAr": "شيشة فواكه",
+      "category": "Shisha",
+      "sheetRow": 240,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0142",
+      "nameEn": "Masel",
+      "nameAr": "معسل",
+      "category": "Shisha",
+      "sheetRow": 242,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0143",
+      "nameEn": "Extra Shisha Fruit",
+      "nameAr": "إكسترا شيشة فواكه",
+      "category": "Shisha",
+      "sheetRow": 244,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    },
+    {
+      "id": "VM-0144",
+      "nameEn": "Extra Saloum",
+      "nameAr": "إكسترا سلوم",
+      "category": "Shisha",
+      "sheetRow": 246,
+      "anchorRow": null,
+      "file": null,
+      "hasPhoto": false
+    }
+  ]
+}
