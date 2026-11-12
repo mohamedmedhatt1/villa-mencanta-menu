@@ -25,7 +25,7 @@ const { VILLA_CATEGORIES, VILLA_MENU_DATA } = require('./js/menu-data.js');
 assert(Array.isArray(VILLA_CATEGORIES), 'VILLA_CATEGORIES is an array');
 assert(VILLA_CATEGORIES.length === 14, `VILLA_CATEGORIES has exactly 14 categories (actual: ${VILLA_CATEGORIES.length})`);
 assert(Array.isArray(VILLA_MENU_DATA), 'VILLA_MENU_DATA is an array');
-assert(VILLA_MENU_DATA.length === 144, `VILLA_MENU_DATA has exactly 144 items (actual: ${VILLA_MENU_DATA.length})`);
+assert(VILLA_MENU_DATA.length === 145, `VILLA_MENU_DATA has exactly 145 items (actual: ${VILLA_MENU_DATA.length})`);
 
 // Verify exact category order
 const expectedOrder = [
@@ -57,7 +57,7 @@ VILLA_MENU_DATA.forEach(item => {
   if (!item.nameEn || !item.nameAr) missingNames++;
   if (item.price !== null && (typeof item.price !== 'number' || isNaN(item.price))) invalidPrices++;
 });
-assert(missingNames === 0, `All 144 items have English and Arabic names (missing: ${missingNames})`);
+assert(missingNames === 0, `All 145 items have English and Arabic names (missing: ${missingNames})`);
 assert(invalidPrices === 0, `All prices are valid numbers or null (invalid: ${invalidPrices})`);
 
 // 2. Verify Assets
@@ -86,7 +86,7 @@ VILLA_MENU_DATA.forEach(item => {
   }
 });
 
-assert(loadedImgCount === 114, `Exactly 114 dishes have authentic loaded images (actual: ${loadedImgCount})`);
+assert(loadedImgCount === 115, `Exactly 115 dishes have authentic loaded images (actual: ${loadedImgCount})`);
 assert(fallbackImgCount === 30, `Exactly 30 dishes use authentic logo fallback (actual: ${fallbackImgCount})`);
 assert(brokenImgLinks === 0, `Zero broken image links across the entire menu`);
 

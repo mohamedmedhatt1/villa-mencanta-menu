@@ -187,7 +187,7 @@ test(elementsById['category-dishes-grid'].children.length === 9, `Pasta page dis
 // 3. Navigation to Beverages & Subcategory Filtering
 app.navigateToCategory('beverages');
 test(app.currentCategoryId === 'beverages', 'Navigated to Beverages category');
-test(elementsById['category-dishes-grid'].children.length === 53, `Beverages page displays all 53 drinks by default (got: ${elementsById['category-dishes-grid'].children.length})`);
+test(elementsById['category-dishes-grid'].children.length === 54, `Beverages page displays all 54 drinks by default (got: ${elementsById['category-dishes-grid'].children.length})`);
 
 // Filter Beverages to 'Smoothies'
 app.activeSubcategory = 'Smoothies';
