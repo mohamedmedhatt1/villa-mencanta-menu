@@ -53,7 +53,7 @@ const VILLA_CATEGORIES = [
         "priceText": "379",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image40.png",
+        "image": "assets/menu/image40.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -72,7 +72,7 @@ const VILLA_CATEGORIES = [
         "priceText": "579",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image49.png",
+        "image": "assets/menu/image49.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -91,7 +91,7 @@ const VILLA_CATEGORIES = [
         "priceText": "709",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image18.png",
+        "image": "assets/menu/image18.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -110,7 +110,7 @@ const VILLA_CATEGORIES = [
         "priceText": "1699",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image10.jpg",
+        "image": "assets/menu/image10.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -129,7 +129,7 @@ const VILLA_CATEGORIES = [
         "priceText": "269",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image5.jpg",
+        "image": "assets/menu/image5.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -148,7 +148,7 @@ const VILLA_CATEGORIES = [
         "priceText": "387",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image15.png",
+        "image": "assets/menu/image15.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -167,7 +167,7 @@ const VILLA_CATEGORIES = [
         "priceText": "479",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image52.png",
+        "image": "assets/menu/image52.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -186,7 +186,7 @@ const VILLA_CATEGORIES = [
         "priceText": "509",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image45.png",
+        "image": "assets/menu/image45.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -205,7 +205,7 @@ const VILLA_CATEGORIES = [
         "priceText": "613",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image17.png",
+        "image": "assets/menu/image17.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -224,7 +224,7 @@ const VILLA_CATEGORIES = [
         "priceText": "269",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image54.png",
+        "image": "assets/menu/image54.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -243,7 +243,7 @@ const VILLA_CATEGORIES = [
         "priceText": "387",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image64.png",
+        "image": "assets/menu/image64.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -262,7 +262,7 @@ const VILLA_CATEGORIES = [
         "priceText": "479",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image13.png",
+        "image": "assets/menu/image13.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -281,7 +281,7 @@ const VILLA_CATEGORIES = [
         "priceText": "509",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image23.png",
+        "image": "assets/menu/image23.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -311,7 +311,7 @@ const VILLA_CATEGORIES = [
         "priceText": "243",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image20.png",
+        "image": "assets/menu/image20.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -330,7 +330,7 @@ const VILLA_CATEGORIES = [
         "priceText": "283",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image16.png",
+        "image": "assets/menu/image16.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -349,7 +349,7 @@ const VILLA_CATEGORIES = [
         "priceText": "679",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image3.jpg",
+        "image": "assets/menu/image3.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -379,7 +379,7 @@ const VILLA_CATEGORIES = [
         "priceText": "437",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image55.png",
+        "image": "assets/menu/image55.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -398,7 +398,7 @@ const VILLA_CATEGORIES = [
         "priceText": "473",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image33.png",
+        "image": "assets/menu/image33.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -417,7 +417,7 @@ const VILLA_CATEGORIES = [
         "priceText": "479",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image51.png",
+        "image": "assets/menu/image51.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -436,7 +436,7 @@ const VILLA_CATEGORIES = [
         "priceText": "517",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image24.png",
+        "image": "assets/menu/image24.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -474,7 +474,7 @@ const VILLA_CATEGORIES = [
         "priceText": "537",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image56.png",
+        "image": "assets/menu/image56.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -512,7 +512,7 @@ const VILLA_CATEGORIES = [
         "priceText": "397",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image42.png",
+        "image": "assets/menu/image42.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -531,7 +531,7 @@ const VILLA_CATEGORIES = [
         "priceText": "731",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image48.png",
+        "image": "assets/menu/image48.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -580,7 +580,7 @@ const VILLA_CATEGORIES = [
         "priceText": "451",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image38.png",
+        "image": "assets/menu/image38.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -599,7 +599,7 @@ const VILLA_CATEGORIES = [
         "priceText": "479",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image12.png",
+        "image": "assets/menu/image12.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -618,7 +618,7 @@ const VILLA_CATEGORIES = [
         "priceText": "493",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image53.png",
+        "image": "assets/menu/image53.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -637,7 +637,7 @@ const VILLA_CATEGORIES = [
         "priceText": "497",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image32.png",
+        "image": "assets/menu/image32.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -656,7 +656,7 @@ const VILLA_CATEGORIES = [
         "priceText": "579",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image37.png",
+        "image": "assets/menu/image37.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -675,7 +675,7 @@ const VILLA_CATEGORIES = [
         "priceText": "607",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image62.png",
+        "image": "assets/menu/image62.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -705,7 +705,7 @@ const VILLA_CATEGORIES = [
         "priceText": "391",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image8.jpg",
+        "image": "assets/menu/image8.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -724,7 +724,7 @@ const VILLA_CATEGORIES = [
         "priceText": "413",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image21.png",
+        "image": "assets/menu/image21.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -743,7 +743,7 @@ const VILLA_CATEGORIES = [
         "priceText": "453",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image7.jpg",
+        "image": "assets/menu/image7.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -762,7 +762,7 @@ const VILLA_CATEGORIES = [
         "priceText": "457",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image66.png",
+        "image": "assets/menu/image66.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -781,7 +781,7 @@ const VILLA_CATEGORIES = [
         "priceText": "493",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image36.png",
+        "image": "assets/menu/image36.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -800,7 +800,7 @@ const VILLA_CATEGORIES = [
         "priceText": "559",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image27.png",
+        "image": "assets/menu/image27.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -819,7 +819,7 @@ const VILLA_CATEGORIES = [
         "priceText": "623",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image25.png",
+        "image": "assets/menu/image25.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -849,7 +849,7 @@ const VILLA_CATEGORIES = [
         "priceText": "697",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image22.png",
+        "image": "assets/menu/image22.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -868,7 +868,7 @@ const VILLA_CATEGORIES = [
         "priceText": "703",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image46.png",
+        "image": "assets/menu/image46.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -898,7 +898,7 @@ const VILLA_CATEGORIES = [
         "priceText": "939",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image2.png",
+        "image": "assets/menu/image2.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -917,7 +917,7 @@ const VILLA_CATEGORIES = [
         "priceText": "1097",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image1.jpg",
+        "image": "assets/menu/image1.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -936,7 +936,7 @@ const VILLA_CATEGORIES = [
         "priceText": "1379",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image63.png",
+        "image": "assets/menu/image63.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -955,7 +955,7 @@ const VILLA_CATEGORIES = [
         "priceText": "739",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image26.png",
+        "image": "assets/menu/image26.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -974,7 +974,7 @@ const VILLA_CATEGORIES = [
         "priceText": "993",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image11.jpg",
+        "image": "assets/menu/image11.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -993,7 +993,7 @@ const VILLA_CATEGORIES = [
         "priceText": "1189",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image39.png",
+        "image": "assets/menu/image39.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1012,7 +1012,7 @@ const VILLA_CATEGORIES = [
         "priceText": "1379",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image4.png",
+        "image": "assets/menu/image4.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1031,7 +1031,7 @@ const VILLA_CATEGORIES = [
         "priceText": "1199",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image34.png",
+        "image": "assets/menu/image34.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1050,7 +1050,7 @@ const VILLA_CATEGORIES = [
         "priceText": "1309",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image70.png",
+        "image": "assets/menu/image70.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1069,7 +1069,7 @@ const VILLA_CATEGORIES = [
         "priceText": "2971",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image50.png",
+        "image": "assets/menu/image50.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -1099,7 +1099,7 @@ const VILLA_CATEGORIES = [
         "priceText": "1039",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image6.jpg",
+        "image": "assets/menu/image6.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1118,7 +1118,7 @@ const VILLA_CATEGORIES = [
         "priceText": "1239",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image19.png",
+        "image": "assets/menu/image19.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -1148,7 +1148,7 @@ const VILLA_CATEGORIES = [
         "priceText": "397",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image35.png",
+        "image": "assets/menu/image35.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1167,7 +1167,7 @@ const VILLA_CATEGORIES = [
         "priceText": "573",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image14.png",
+        "image": "assets/menu/image14.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1186,7 +1186,7 @@ const VILLA_CATEGORIES = [
         "priceText": "537",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image43.png",
+        "image": "assets/menu/image43.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1205,7 +1205,7 @@ const VILLA_CATEGORIES = [
         "priceText": "577",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image44.png",
+        "image": "assets/menu/image44.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1224,7 +1224,7 @@ const VILLA_CATEGORIES = [
         "priceText": "577",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image29.png",
+        "image": "assets/menu/image29.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1243,7 +1243,7 @@ const VILLA_CATEGORIES = [
         "priceText": "637",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image47.png",
+        "image": "assets/menu/image47.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1281,7 +1281,7 @@ const VILLA_CATEGORIES = [
         "priceText": "",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image30.png",
+        "image": "assets/menu/image30.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1300,7 +1300,7 @@ const VILLA_CATEGORIES = [
         "priceText": "991",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image76.png",
+        "image": "assets/menu/image76.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -1330,7 +1330,7 @@ const VILLA_CATEGORIES = [
         "priceText": "371",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image60.png",
+        "image": "assets/menu/image60.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1349,7 +1349,7 @@ const VILLA_CATEGORIES = [
         "priceText": "511",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image57.png",
+        "image": "assets/menu/image57.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1368,7 +1368,7 @@ const VILLA_CATEGORIES = [
         "priceText": "531",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image61.png",
+        "image": "assets/menu/image61.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1387,7 +1387,7 @@ const VILLA_CATEGORIES = [
         "priceText": "687",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image9.jpg",
+        "image": "assets/menu/image9.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1406,7 +1406,7 @@ const VILLA_CATEGORIES = [
         "priceText": "751",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image65.png",
+        "image": "assets/menu/image65.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1425,7 +1425,7 @@ const VILLA_CATEGORIES = [
         "priceText": "923",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image28.png",
+        "image": "assets/menu/image28.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1444,7 +1444,7 @@ const VILLA_CATEGORIES = [
         "priceText": "947",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image58.png",
+        "image": "assets/menu/image58.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1463,7 +1463,7 @@ const VILLA_CATEGORIES = [
         "priceText": "973",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image74.png",
+        "image": "assets/menu/image74.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -1493,7 +1493,7 @@ const VILLA_CATEGORIES = [
         "priceText": "391",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image69.png",
+        "image": "assets/menu/image69.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1512,7 +1512,7 @@ const VILLA_CATEGORIES = [
         "priceText": "467",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image79.png",
+        "image": "assets/menu/image79.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1531,7 +1531,7 @@ const VILLA_CATEGORIES = [
         "priceText": "493",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image86.png",
+        "image": "assets/menu/image86.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1550,7 +1550,7 @@ const VILLA_CATEGORIES = [
         "priceText": "533",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image90.png",
+        "image": "assets/menu/image90.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -1636,7 +1636,7 @@ const VILLA_CATEGORIES = [
         "priceText": "171",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image59.png",
+        "image": "assets/menu/image59.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1655,7 +1655,7 @@ const VILLA_CATEGORIES = [
         "priceText": "173",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image89.png",
+        "image": "assets/menu/image89.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1674,7 +1674,7 @@ const VILLA_CATEGORIES = [
         "priceText": "177",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image94.png",
+        "image": "assets/menu/image94.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1693,7 +1693,7 @@ const VILLA_CATEGORIES = [
         "priceText": "181",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image105.png",
+        "image": "assets/menu/image105.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1712,7 +1712,7 @@ const VILLA_CATEGORIES = [
         "priceText": "181",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image106.png",
+        "image": "assets/menu/image106.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1731,7 +1731,7 @@ const VILLA_CATEGORIES = [
         "priceText": "203",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image88.png",
+        "image": "assets/menu/image88.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1750,7 +1750,7 @@ const VILLA_CATEGORIES = [
         "priceText": "203",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image68.png",
+        "image": "assets/menu/image68.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1769,7 +1769,7 @@ const VILLA_CATEGORIES = [
         "priceText": "99",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image98.png",
+        "image": "assets/menu/image98.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1788,7 +1788,7 @@ const VILLA_CATEGORIES = [
         "priceText": "113",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image67.png",
+        "image": "assets/menu/image67.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1845,7 +1845,7 @@ const VILLA_CATEGORIES = [
         "priceText": "233",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image84.png",
+        "image": "assets/menu/image84.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1864,7 +1864,7 @@ const VILLA_CATEGORIES = [
         "priceText": "239",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image95.png",
+        "image": "assets/menu/image95.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1921,7 +1921,7 @@ const VILLA_CATEGORIES = [
         "priceText": "243",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image91.png",
+        "image": "assets/menu/image91.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1940,7 +1940,7 @@ const VILLA_CATEGORIES = [
         "priceText": "271",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image101.png",
+        "image": "assets/menu/image101.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1959,7 +1959,7 @@ const VILLA_CATEGORIES = [
         "priceText": "299",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image111.png",
+        "image": "assets/menu/image111.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1978,7 +1978,7 @@ const VILLA_CATEGORIES = [
         "priceText": "299",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image100.png",
+        "image": "assets/menu/image100.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -1997,7 +1997,7 @@ const VILLA_CATEGORIES = [
         "priceText": "299",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image72.png",
+        "image": "assets/menu/image72.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2016,7 +2016,7 @@ const VILLA_CATEGORIES = [
         "priceText": "99",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image31.png",
+        "image": "assets/menu/image31.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2035,7 +2035,7 @@ const VILLA_CATEGORIES = [
         "priceText": "99",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image31.png",
+        "image": "assets/menu/image31.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2054,7 +2054,7 @@ const VILLA_CATEGORIES = [
         "priceText": "199",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image93.png",
+        "image": "assets/menu/image93.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2073,7 +2073,7 @@ const VILLA_CATEGORIES = [
         "priceText": "169",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image99.png",
+        "image": "assets/menu/image99.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2092,7 +2092,7 @@ const VILLA_CATEGORIES = [
         "priceText": "173",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image92.png",
+        "image": "assets/menu/image92.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2111,7 +2111,7 @@ const VILLA_CATEGORIES = [
         "priceText": "237",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image87.png",
+        "image": "assets/menu/image87.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2130,7 +2130,7 @@ const VILLA_CATEGORIES = [
         "priceText": "197",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image75.png",
+        "image": "assets/menu/image75.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2149,7 +2149,7 @@ const VILLA_CATEGORIES = [
         "priceText": "217",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image77.png",
+        "image": "assets/menu/image77.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2168,7 +2168,7 @@ const VILLA_CATEGORIES = [
         "priceText": "",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image71.png",
+        "image": "assets/menu/image71.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2187,7 +2187,7 @@ const VILLA_CATEGORIES = [
         "priceText": "217",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image82.png",
+        "image": "assets/menu/image82.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2206,7 +2206,7 @@ const VILLA_CATEGORIES = [
         "priceText": "153",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image41.jpg",
+        "image": "assets/menu/image41.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2225,7 +2225,7 @@ const VILLA_CATEGORIES = [
         "priceText": "147",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image113.png",
+        "image": "assets/menu/image113.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2244,7 +2244,7 @@ const VILLA_CATEGORIES = [
         "priceText": "177",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image109.png",
+        "image": "assets/menu/image109.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2263,7 +2263,7 @@ const VILLA_CATEGORIES = [
         "priceText": "179",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image110.png",
+        "image": "assets/menu/image110.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2282,7 +2282,7 @@ const VILLA_CATEGORIES = [
         "priceText": "179",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image104.png",
+        "image": "assets/menu/image104.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2301,7 +2301,7 @@ const VILLA_CATEGORIES = [
         "priceText": "261",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image96.png",
+        "image": "assets/menu/image96.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2320,7 +2320,7 @@ const VILLA_CATEGORIES = [
         "priceText": "43",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image107.png",
+        "image": "assets/menu/image107.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2339,7 +2339,7 @@ const VILLA_CATEGORIES = [
         "priceText": "99",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image108.png",
+        "image": "assets/menu/image108.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2472,7 +2472,7 @@ const VILLA_CATEGORIES = [
         "priceText": "193",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image112.png",
+        "image": "assets/menu/image112.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2491,7 +2491,7 @@ const VILLA_CATEGORIES = [
         "priceText": "139",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image114.png",
+        "image": "assets/menu/image114.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2510,7 +2510,7 @@ const VILLA_CATEGORIES = [
         "priceText": "379",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image82.png",
+        "image": "assets/menu/image82.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2529,7 +2529,7 @@ const VILLA_CATEGORIES = [
         "priceText": "379",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image78.png",
+        "image": "assets/menu/image78.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2548,7 +2548,7 @@ const VILLA_CATEGORIES = [
         "priceText": "379",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image81.png",
+        "image": "assets/menu/image81.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2586,7 +2586,7 @@ const VILLA_CATEGORIES = [
         "priceText": "246",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image80.png",
+        "image": "assets/menu/image80.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2643,7 +2643,7 @@ const VILLA_CATEGORIES = [
         "priceText": "263",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image68.png",
+        "image": "assets/menu/image68.webp",
         "fallbackImage": "assets/brand/logo.png"
       }
     ]
@@ -2673,7 +2673,7 @@ const VILLA_CATEGORIES = [
         "priceText": "579",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image103.png",
+        "image": "assets/menu/image103.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2692,7 +2692,7 @@ const VILLA_CATEGORIES = [
         "priceText": "579",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image102.png",
+        "image": "assets/menu/image102.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2863,7 +2863,7 @@ const VILLA_CATEGORIES = [
         "priceText": "",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image73.png",
+        "image": "assets/menu/image73.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -2882,7 +2882,7 @@ const VILLA_CATEGORIES = [
         "priceText": "",
         "currencyEn": "EGP",
         "currencyAr": "ج.م",
-        "image": "assets/menu/image97.png",
+        "image": "assets/menu/image97.webp",
         "fallbackImage": "assets/brand/logo.png"
       },
       {
@@ -3012,7 +3012,7 @@ const VILLA_MENU_DATA = [
     "priceText": "379",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image40.png",
+    "image": "assets/menu/image40.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3031,7 +3031,7 @@ const VILLA_MENU_DATA = [
     "priceText": "579",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image49.png",
+    "image": "assets/menu/image49.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3050,7 +3050,7 @@ const VILLA_MENU_DATA = [
     "priceText": "709",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image18.png",
+    "image": "assets/menu/image18.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3069,7 +3069,7 @@ const VILLA_MENU_DATA = [
     "priceText": "1699",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image10.jpg",
+    "image": "assets/menu/image10.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3088,7 +3088,7 @@ const VILLA_MENU_DATA = [
     "priceText": "269",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image5.jpg",
+    "image": "assets/menu/image5.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3107,7 +3107,7 @@ const VILLA_MENU_DATA = [
     "priceText": "387",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image15.png",
+    "image": "assets/menu/image15.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3126,7 +3126,7 @@ const VILLA_MENU_DATA = [
     "priceText": "479",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image52.png",
+    "image": "assets/menu/image52.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3145,7 +3145,7 @@ const VILLA_MENU_DATA = [
     "priceText": "509",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image45.png",
+    "image": "assets/menu/image45.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3164,7 +3164,7 @@ const VILLA_MENU_DATA = [
     "priceText": "613",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image17.png",
+    "image": "assets/menu/image17.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3183,7 +3183,7 @@ const VILLA_MENU_DATA = [
     "priceText": "269",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image54.png",
+    "image": "assets/menu/image54.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3202,7 +3202,7 @@ const VILLA_MENU_DATA = [
     "priceText": "387",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image64.png",
+    "image": "assets/menu/image64.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3221,7 +3221,7 @@ const VILLA_MENU_DATA = [
     "priceText": "479",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image13.png",
+    "image": "assets/menu/image13.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3240,7 +3240,7 @@ const VILLA_MENU_DATA = [
     "priceText": "509",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image23.png",
+    "image": "assets/menu/image23.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3259,7 +3259,7 @@ const VILLA_MENU_DATA = [
     "priceText": "243",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image20.png",
+    "image": "assets/menu/image20.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3278,7 +3278,7 @@ const VILLA_MENU_DATA = [
     "priceText": "283",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image16.png",
+    "image": "assets/menu/image16.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3297,7 +3297,7 @@ const VILLA_MENU_DATA = [
     "priceText": "679",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image3.jpg",
+    "image": "assets/menu/image3.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3316,7 +3316,7 @@ const VILLA_MENU_DATA = [
     "priceText": "437",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image55.png",
+    "image": "assets/menu/image55.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3335,7 +3335,7 @@ const VILLA_MENU_DATA = [
     "priceText": "473",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image33.png",
+    "image": "assets/menu/image33.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3354,7 +3354,7 @@ const VILLA_MENU_DATA = [
     "priceText": "479",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image51.png",
+    "image": "assets/menu/image51.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3373,7 +3373,7 @@ const VILLA_MENU_DATA = [
     "priceText": "517",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image24.png",
+    "image": "assets/menu/image24.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3411,7 +3411,7 @@ const VILLA_MENU_DATA = [
     "priceText": "537",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image56.png",
+    "image": "assets/menu/image56.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3449,7 +3449,7 @@ const VILLA_MENU_DATA = [
     "priceText": "397",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image42.png",
+    "image": "assets/menu/image42.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3468,7 +3468,7 @@ const VILLA_MENU_DATA = [
     "priceText": "731",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image48.png",
+    "image": "assets/menu/image48.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3506,7 +3506,7 @@ const VILLA_MENU_DATA = [
     "priceText": "451",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image38.png",
+    "image": "assets/menu/image38.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3525,7 +3525,7 @@ const VILLA_MENU_DATA = [
     "priceText": "479",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image12.png",
+    "image": "assets/menu/image12.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3544,7 +3544,7 @@ const VILLA_MENU_DATA = [
     "priceText": "493",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image53.png",
+    "image": "assets/menu/image53.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3563,7 +3563,7 @@ const VILLA_MENU_DATA = [
     "priceText": "497",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image32.png",
+    "image": "assets/menu/image32.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3582,7 +3582,7 @@ const VILLA_MENU_DATA = [
     "priceText": "579",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image37.png",
+    "image": "assets/menu/image37.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3601,7 +3601,7 @@ const VILLA_MENU_DATA = [
     "priceText": "607",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image62.png",
+    "image": "assets/menu/image62.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3620,7 +3620,7 @@ const VILLA_MENU_DATA = [
     "priceText": "391",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image8.jpg",
+    "image": "assets/menu/image8.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3639,7 +3639,7 @@ const VILLA_MENU_DATA = [
     "priceText": "413",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image21.png",
+    "image": "assets/menu/image21.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3658,7 +3658,7 @@ const VILLA_MENU_DATA = [
     "priceText": "453",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image7.jpg",
+    "image": "assets/menu/image7.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3677,7 +3677,7 @@ const VILLA_MENU_DATA = [
     "priceText": "457",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image66.png",
+    "image": "assets/menu/image66.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3696,7 +3696,7 @@ const VILLA_MENU_DATA = [
     "priceText": "493",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image36.png",
+    "image": "assets/menu/image36.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3715,7 +3715,7 @@ const VILLA_MENU_DATA = [
     "priceText": "559",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image27.png",
+    "image": "assets/menu/image27.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3734,7 +3734,7 @@ const VILLA_MENU_DATA = [
     "priceText": "623",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image25.png",
+    "image": "assets/menu/image25.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3753,7 +3753,7 @@ const VILLA_MENU_DATA = [
     "priceText": "697",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image22.png",
+    "image": "assets/menu/image22.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3772,7 +3772,7 @@ const VILLA_MENU_DATA = [
     "priceText": "703",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image46.png",
+    "image": "assets/menu/image46.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3791,7 +3791,7 @@ const VILLA_MENU_DATA = [
     "priceText": "939",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image2.png",
+    "image": "assets/menu/image2.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3810,7 +3810,7 @@ const VILLA_MENU_DATA = [
     "priceText": "1097",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image1.jpg",
+    "image": "assets/menu/image1.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3829,7 +3829,7 @@ const VILLA_MENU_DATA = [
     "priceText": "1379",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image63.png",
+    "image": "assets/menu/image63.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3848,7 +3848,7 @@ const VILLA_MENU_DATA = [
     "priceText": "739",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image26.png",
+    "image": "assets/menu/image26.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3867,7 +3867,7 @@ const VILLA_MENU_DATA = [
     "priceText": "993",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image11.jpg",
+    "image": "assets/menu/image11.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3886,7 +3886,7 @@ const VILLA_MENU_DATA = [
     "priceText": "1189",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image39.png",
+    "image": "assets/menu/image39.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3905,7 +3905,7 @@ const VILLA_MENU_DATA = [
     "priceText": "1379",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image4.png",
+    "image": "assets/menu/image4.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3924,7 +3924,7 @@ const VILLA_MENU_DATA = [
     "priceText": "1199",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image34.png",
+    "image": "assets/menu/image34.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3943,7 +3943,7 @@ const VILLA_MENU_DATA = [
     "priceText": "1309",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image70.png",
+    "image": "assets/menu/image70.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3962,7 +3962,7 @@ const VILLA_MENU_DATA = [
     "priceText": "2971",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image50.png",
+    "image": "assets/menu/image50.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -3981,7 +3981,7 @@ const VILLA_MENU_DATA = [
     "priceText": "1039",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image6.jpg",
+    "image": "assets/menu/image6.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4000,7 +4000,7 @@ const VILLA_MENU_DATA = [
     "priceText": "1239",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image19.png",
+    "image": "assets/menu/image19.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4019,7 +4019,7 @@ const VILLA_MENU_DATA = [
     "priceText": "397",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image35.png",
+    "image": "assets/menu/image35.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4038,7 +4038,7 @@ const VILLA_MENU_DATA = [
     "priceText": "573",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image14.png",
+    "image": "assets/menu/image14.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4057,7 +4057,7 @@ const VILLA_MENU_DATA = [
     "priceText": "537",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image43.png",
+    "image": "assets/menu/image43.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4076,7 +4076,7 @@ const VILLA_MENU_DATA = [
     "priceText": "577",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image44.png",
+    "image": "assets/menu/image44.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4095,7 +4095,7 @@ const VILLA_MENU_DATA = [
     "priceText": "577",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image29.png",
+    "image": "assets/menu/image29.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4114,7 +4114,7 @@ const VILLA_MENU_DATA = [
     "priceText": "637",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image47.png",
+    "image": "assets/menu/image47.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4152,7 +4152,7 @@ const VILLA_MENU_DATA = [
     "priceText": "",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image30.png",
+    "image": "assets/menu/image30.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4171,7 +4171,7 @@ const VILLA_MENU_DATA = [
     "priceText": "991",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image76.png",
+    "image": "assets/menu/image76.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4190,7 +4190,7 @@ const VILLA_MENU_DATA = [
     "priceText": "371",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image60.png",
+    "image": "assets/menu/image60.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4209,7 +4209,7 @@ const VILLA_MENU_DATA = [
     "priceText": "511",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image57.png",
+    "image": "assets/menu/image57.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4228,7 +4228,7 @@ const VILLA_MENU_DATA = [
     "priceText": "531",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image61.png",
+    "image": "assets/menu/image61.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4247,7 +4247,7 @@ const VILLA_MENU_DATA = [
     "priceText": "687",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image9.jpg",
+    "image": "assets/menu/image9.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4266,7 +4266,7 @@ const VILLA_MENU_DATA = [
     "priceText": "751",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image65.png",
+    "image": "assets/menu/image65.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4285,7 +4285,7 @@ const VILLA_MENU_DATA = [
     "priceText": "923",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image28.png",
+    "image": "assets/menu/image28.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4304,7 +4304,7 @@ const VILLA_MENU_DATA = [
     "priceText": "947",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image58.png",
+    "image": "assets/menu/image58.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4323,7 +4323,7 @@ const VILLA_MENU_DATA = [
     "priceText": "973",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image74.png",
+    "image": "assets/menu/image74.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4342,7 +4342,7 @@ const VILLA_MENU_DATA = [
     "priceText": "391",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image69.png",
+    "image": "assets/menu/image69.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4361,7 +4361,7 @@ const VILLA_MENU_DATA = [
     "priceText": "467",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image79.png",
+    "image": "assets/menu/image79.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4380,7 +4380,7 @@ const VILLA_MENU_DATA = [
     "priceText": "493",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image86.png",
+    "image": "assets/menu/image86.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4399,7 +4399,7 @@ const VILLA_MENU_DATA = [
     "priceText": "533",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image90.png",
+    "image": "assets/menu/image90.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4418,7 +4418,7 @@ const VILLA_MENU_DATA = [
     "priceText": "171",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image59.png",
+    "image": "assets/menu/image59.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4437,7 +4437,7 @@ const VILLA_MENU_DATA = [
     "priceText": "173",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image89.png",
+    "image": "assets/menu/image89.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4456,7 +4456,7 @@ const VILLA_MENU_DATA = [
     "priceText": "177",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image94.png",
+    "image": "assets/menu/image94.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4475,7 +4475,7 @@ const VILLA_MENU_DATA = [
     "priceText": "181",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image105.png",
+    "image": "assets/menu/image105.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4494,7 +4494,7 @@ const VILLA_MENU_DATA = [
     "priceText": "181",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image106.png",
+    "image": "assets/menu/image106.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4513,7 +4513,7 @@ const VILLA_MENU_DATA = [
     "priceText": "203",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image88.png",
+    "image": "assets/menu/image88.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4532,7 +4532,7 @@ const VILLA_MENU_DATA = [
     "priceText": "203",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image68.png",
+    "image": "assets/menu/image68.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4551,7 +4551,7 @@ const VILLA_MENU_DATA = [
     "priceText": "99",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image98.png",
+    "image": "assets/menu/image98.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4570,7 +4570,7 @@ const VILLA_MENU_DATA = [
     "priceText": "113",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image67.png",
+    "image": "assets/menu/image67.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4627,7 +4627,7 @@ const VILLA_MENU_DATA = [
     "priceText": "233",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image84.png",
+    "image": "assets/menu/image84.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4646,7 +4646,7 @@ const VILLA_MENU_DATA = [
     "priceText": "239",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image95.png",
+    "image": "assets/menu/image95.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4703,7 +4703,7 @@ const VILLA_MENU_DATA = [
     "priceText": "243",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image91.png",
+    "image": "assets/menu/image91.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4722,7 +4722,7 @@ const VILLA_MENU_DATA = [
     "priceText": "271",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image101.png",
+    "image": "assets/menu/image101.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4741,7 +4741,7 @@ const VILLA_MENU_DATA = [
     "priceText": "299",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image111.png",
+    "image": "assets/menu/image111.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4760,7 +4760,7 @@ const VILLA_MENU_DATA = [
     "priceText": "299",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image100.png",
+    "image": "assets/menu/image100.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4779,7 +4779,7 @@ const VILLA_MENU_DATA = [
     "priceText": "299",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image72.png",
+    "image": "assets/menu/image72.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4798,7 +4798,7 @@ const VILLA_MENU_DATA = [
     "priceText": "99",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image31.png",
+    "image": "assets/menu/image31.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4817,7 +4817,7 @@ const VILLA_MENU_DATA = [
     "priceText": "99",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image31.png",
+    "image": "assets/menu/image31.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4836,7 +4836,7 @@ const VILLA_MENU_DATA = [
     "priceText": "199",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image93.png",
+    "image": "assets/menu/image93.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4855,7 +4855,7 @@ const VILLA_MENU_DATA = [
     "priceText": "169",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image99.png",
+    "image": "assets/menu/image99.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4874,7 +4874,7 @@ const VILLA_MENU_DATA = [
     "priceText": "173",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image92.png",
+    "image": "assets/menu/image92.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4893,7 +4893,7 @@ const VILLA_MENU_DATA = [
     "priceText": "237",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image87.png",
+    "image": "assets/menu/image87.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4912,7 +4912,7 @@ const VILLA_MENU_DATA = [
     "priceText": "197",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image75.png",
+    "image": "assets/menu/image75.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4931,7 +4931,7 @@ const VILLA_MENU_DATA = [
     "priceText": "217",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image77.png",
+    "image": "assets/menu/image77.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4950,7 +4950,7 @@ const VILLA_MENU_DATA = [
     "priceText": "",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image71.png",
+    "image": "assets/menu/image71.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4969,7 +4969,7 @@ const VILLA_MENU_DATA = [
     "priceText": "217",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image82.png",
+    "image": "assets/menu/image82.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -4988,7 +4988,7 @@ const VILLA_MENU_DATA = [
     "priceText": "153",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image41.jpg",
+    "image": "assets/menu/image41.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5007,7 +5007,7 @@ const VILLA_MENU_DATA = [
     "priceText": "147",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image113.png",
+    "image": "assets/menu/image113.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5026,7 +5026,7 @@ const VILLA_MENU_DATA = [
     "priceText": "177",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image109.png",
+    "image": "assets/menu/image109.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5045,7 +5045,7 @@ const VILLA_MENU_DATA = [
     "priceText": "179",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image110.png",
+    "image": "assets/menu/image110.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5064,7 +5064,7 @@ const VILLA_MENU_DATA = [
     "priceText": "179",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image104.png",
+    "image": "assets/menu/image104.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5083,7 +5083,7 @@ const VILLA_MENU_DATA = [
     "priceText": "261",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image96.png",
+    "image": "assets/menu/image96.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5102,7 +5102,7 @@ const VILLA_MENU_DATA = [
     "priceText": "43",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image107.png",
+    "image": "assets/menu/image107.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5121,7 +5121,7 @@ const VILLA_MENU_DATA = [
     "priceText": "99",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image108.png",
+    "image": "assets/menu/image108.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5254,7 +5254,7 @@ const VILLA_MENU_DATA = [
     "priceText": "193",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image112.png",
+    "image": "assets/menu/image112.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5273,7 +5273,7 @@ const VILLA_MENU_DATA = [
     "priceText": "139",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image114.png",
+    "image": "assets/menu/image114.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5292,7 +5292,7 @@ const VILLA_MENU_DATA = [
     "priceText": "379",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image82.png",
+    "image": "assets/menu/image82.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5311,7 +5311,7 @@ const VILLA_MENU_DATA = [
     "priceText": "379",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image78.png",
+    "image": "assets/menu/image78.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5330,7 +5330,7 @@ const VILLA_MENU_DATA = [
     "priceText": "379",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image81.png",
+    "image": "assets/menu/image81.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5368,7 +5368,7 @@ const VILLA_MENU_DATA = [
     "priceText": "246",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image80.png",
+    "image": "assets/menu/image80.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5425,7 +5425,7 @@ const VILLA_MENU_DATA = [
     "priceText": "263",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image68.png",
+    "image": "assets/menu/image68.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5444,7 +5444,7 @@ const VILLA_MENU_DATA = [
     "priceText": "579",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image103.png",
+    "image": "assets/menu/image103.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5463,7 +5463,7 @@ const VILLA_MENU_DATA = [
     "priceText": "579",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image102.png",
+    "image": "assets/menu/image102.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5634,7 +5634,7 @@ const VILLA_MENU_DATA = [
     "priceText": "",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image73.png",
+    "image": "assets/menu/image73.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
@@ -5653,7 +5653,7 @@ const VILLA_MENU_DATA = [
     "priceText": "",
     "currencyEn": "EGP",
     "currencyAr": "ج.م",
-    "image": "assets/menu/image97.png",
+    "image": "assets/menu/image97.webp",
     "fallbackImage": "assets/brand/logo.png"
   },
   {
